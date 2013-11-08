@@ -50,6 +50,10 @@ body  {
 	margin-right: 20px;
 	margin-bottom: 0;
 	margin-left: 26%;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #666;
+	padding-left: 6px;
 }
 .twoColLiqLtHdr #footer {
 	padding: 0 10px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
