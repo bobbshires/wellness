@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	font-family: Geneva, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
 	font-size: 12px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -21,7 +21,7 @@ h2 {
 }
 h3 {
 	font-size: 1.17em;
-	color: #95273C;
+	color: rgb(58,140,68);
 }
 h4 {
 	font-size: 1em;
